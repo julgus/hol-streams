@@ -1,6 +1,6 @@
 name: hol-streams
 title: Hands On Lab Streams
-version: 1.3
+version: 1.4-SNAPSHOT
 nav:
   - modules/ROOT/nav.adoc
   - modules/getting-started/nav.adoc
